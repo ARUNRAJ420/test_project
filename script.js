@@ -79,6 +79,6 @@ function weatherDetails(info){
   console.log(info)
 }
 
-arrowBack.addEventListener("click", () => { this is Arun
+arrowBack.addEventListener("click", () => {
   wrapper.classList.remove("active")
 })
